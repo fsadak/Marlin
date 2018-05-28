@@ -894,6 +894,11 @@
 
 // @section extras
 
+// ENDSTOP REPORT
+//
+#define ENDSTOP_REPORT //FSADAK
+//
+
 //
 // EEPROM
 //
